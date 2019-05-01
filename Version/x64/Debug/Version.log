@@ -1,0 +1,8 @@
+﻿  Versioning.cpp
+c:\users\harik\downloads\repositoryproject2harikabandaru\repositoryproject2\version\versioning.h(117): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\downloads\repositoryproject2harikabandaru\repositoryproject2\version\versioning.h(116): warning C4101: 'version': unreferenced local variable
+c:\users\harik\downloads\repositoryproject2harikabandaru\repositoryproject2\version\versioning.h(129): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\downloads\repositoryproject2harikabandaru\repositoryproject2\version\versioning.h(128): warning C4101: 'version': unreferenced local variable
+c:\users\harik\downloads\repositoryproject2harikabandaru\repositoryproject2\version\versioning.h(153): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\downloads\repositoryproject2harikabandaru\repositoryproject2\version\versioning.h(168): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Version.vcxproj -> C:\Users\harik\Downloads\RepositoryProject2HarikaBandaru\RepositoryProject2\x64\Debug\Version.lib
