@@ -1,0 +1,4 @@
+﻿  TraverseUsingGraph.cpp
+c:\users\harik\downloads\repositoryproject2harikabandaru\repositoryproject2\queries\queries.h(213): warning C5037: 'NoSqlDb::DbQueries<P>::show': an out-of-line definition of a member of a class template cannot have default arguments
+c:\users\harik\downloads\repositoryproject2harikabandaru\repositoryproject2\queries\queries.h(279): warning C5037: 'NoSqlDb::DbQueries<P>::selectdateTime': an out-of-line definition of a member of a class template cannot have default arguments
+  TraverseUsingGraph.vcxproj -> C:\Users\harik\Downloads\RepositoryProject2HarikaBandaru\RepositoryProject2\x64\Debug\TraverseUsingGraph.lib
