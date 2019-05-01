@@ -1,0 +1,96 @@
+
+  <KeyValueDataBase>
+    <Record>
+      <key>
+        FileName1.cp
+      </key>
+      <metadata>
+        <name>
+          Harika PErsist
+        </name>
+        <Description>
+          checking persistance
+        </Description>
+        <dateTime>
+          Sun Feb  4 15:37:18 2018
+        </dateTime>
+        <children>
+        </children>
+      </metadata>
+      <PayLoad>
+        <FilePath>
+          Path1
+        </FilePath>
+        <Catogries>
+          <Catogrie>
+            cat1
+          </Catogrie>
+          <Catogrie>
+            cat2
+          </Catogrie>
+        </Catogries>
+      </PayLoad>
+    </Record>
+    <Record>
+      <key>
+        FileName2.cp
+      </key>
+      <metadata>
+        <name>
+          Name2
+        </name>
+        <Description>
+          Adding 2nd eleement
+        </Description>
+        <dateTime>
+          Sun Feb  4 15:37:18 2018
+        </dateTime>
+        <children>
+        </children>
+      </metadata>
+      <PayLoad>
+        <FilePath>
+          Path2
+        </FilePath>
+        <Catogries>
+          <Catogrie>
+            cat2
+          </Catogrie>
+          <Catogrie>
+            cat3
+          </Catogrie>
+        </Catogries>
+      </PayLoad>
+    </Record>
+    <Record>
+      <key>
+        Filename3.cp
+      </key>
+      <metadata>
+        <name>
+          Name3
+        </name>
+        <Description>
+          Adding 3rd element
+        </Description>
+        <dateTime>
+          Sun Feb  4 15:37:18 2018
+        </dateTime>
+        <children>
+        </children>
+      </metadata>
+      <PayLoad>
+        <FilePath>
+          Path3
+        </FilePath>
+        <Catogries>
+          <Catogrie>
+            cat4
+          </Catogrie>
+          <Catogrie>
+            cat5
+          </Catogrie>
+        </Catogries>
+      </PayLoad>
+    </Record>
+  </KeyValueDataBase>
