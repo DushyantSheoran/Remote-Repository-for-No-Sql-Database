@@ -1,0 +1,2 @@
+# Remote-Repository-for-No-Sql-Database
+Designed and developed code repository that support check-in, check-out, versioning and browsing. • Metadata is stored in the NoSql database, helps in retrieving the dependency relationships between packages. • Provided a user interface(using C# WPF) to use the code repository. • HTTP style based message-passing communication that supports use of code repository from remote machine. • The message-passing communication is asynchronous.
