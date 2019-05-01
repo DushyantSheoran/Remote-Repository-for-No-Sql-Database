@@ -1,0 +1,9 @@
+﻿  DateTime.cpp
+c:\users\harik\source\repos\repositoryproject2\datetime\datetime.cpp(64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\source\repos\repositoryproject2\datetime\datetime.cpp(96): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\source\repos\repositoryproject2\datetime\datetime.cpp(97): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\source\repos\repositoryproject2\datetime\datetime.cpp(98): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\source\repos\repositoryproject2\datetime\datetime.cpp(99): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\source\repos\repositoryproject2\datetime\datetime.cpp(100): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\harik\source\repos\repositoryproject2\datetime\datetime.cpp(101): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DateTime.vcxproj -> C:\Users\harik\source\repos\RepositoryProject2\x64\Debug\DateTime.lib

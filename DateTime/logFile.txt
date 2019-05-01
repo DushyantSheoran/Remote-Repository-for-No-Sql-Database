@@ -1,0 +1,57 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Sun Feb  4 15:42:48 2018
+     Path: "C:\Users\Harika\source\repos\Project1\DateTime"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      45
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                DateTime.h       class                           DateTime      35      42      40
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              DateTime.cpp    function                              ctime      10       6       1
+              DateTime.cpp    function                          localtime      20       5       1
+              DateTime.cpp    function                           DateTime      28       3       1
+              DateTime.cpp    function                           DateTime      50      28      15
+              DateTime.cpp    function                      operatorstd::      81       3       1
+              DateTime.cpp    function                           DateTime      85       2       1
+              DateTime.cpp    function                           makeTime      93      16       2
+              DateTime.cpp    function                       makeDuration     114       8       1
+              DateTime.cpp    function                                now     125       7       1
+              DateTime.cpp    function                          timepoint     135       3       1
+              DateTime.cpp    function                              ticks     141       4       1
+              DateTime.cpp    function                               time     148       6       1
+              DateTime.cpp    function                          operator<     157       3       1
+              DateTime.cpp    function                          operator>     163       3       1
+              DateTime.cpp    function                         operator+=     169       4       1
+              DateTime.cpp    function                          operator+     176       4       1
+              DateTime.cpp    function                         operator-=     183       4       1
+              DateTime.cpp    function                          operator-     190       3       1
+              DateTime.cpp    function                               year     196       5       1
+              DateTime.cpp    function                              month     204       5       1
+              DateTime.cpp    function                                day     212       5       1
+              DateTime.cpp    function                               hour     220       5       1
+              DateTime.cpp    function                             minute     228       5       1
+              DateTime.cpp    function                             second     236       5       1
+              DateTime.cpp    function                   readDateTimePart      36       9       1
+              DateTime.cpp    function                               main     250      28       3
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              DateTime.cpp    function                           DateTime      50      28      15
+
+
+
+    searched     3 dirs
+   processed     4 files
